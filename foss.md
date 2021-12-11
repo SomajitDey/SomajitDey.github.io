@@ -24,7 +24,7 @@ Bash scripting library + CLI + Connection-pool for [Redis](https://redis.io/). T
 
 ### [IPNS-Link](https://github.com/ipns-link)
 
-Expose http-servers (web-apps) with [IPNS](https://docs.ipfs.io/concepts/ipns/). An ambitious project with lots of [benefits](https://github.com/ipns-link/specs#benefits) down the road.
+Expose http-servers (web-apps) with [IPNS](https://docs.ipfs.io/concepts/ipns/). Hassle and cost-free, yet secure, self-hosting for everybody. Additional benefits – anonymity, censorship-resistance, efficient live streaming etc. This project [won](https://github.com/ipfs/devgrants/issues/122#issuecomment-987230372) a 5000 USD [Next Step Microgrant](https://github.com/ipfs/devgrants/blob/master/MICROGRANTS.md) from Protocol Labs.
 
 ### [tocgen](https://github.com/SomajitDey/tocgen)
 

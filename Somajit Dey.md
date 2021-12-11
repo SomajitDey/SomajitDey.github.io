@@ -35,9 +35,11 @@ My interests are wide. Here are a few of them:
 - Modelling and simulating lyotropic liquid crystals. (Worked on this)
 - Developing more efficient integrators for large scale molecular dynamics simulations. (Worked on this)
 - Lipid or copolymer based nanoparticles for cellular delivery of therapeutics. (Worked on this)
-- Open and non-equilibrium systems - spontaneous emergence of organized structures without violating the 2nd law.
-- Universality, as discovered in biological and ecological systems.
+- Open and non-equilibrium systems - spontaneous emergence of organized structures without violating the 2nd law. Origin of Life.
+- Complex systems; Collective dynamics, self-organization, emergence and universality, as found in biological and ecological systems.
 - General models for the phenomena of jamming in different systems.
+- Computational research on the physical chemistry of proteins.
+- Quantum biology.
 - The postulates of special relativity. (Worked on this)
 - Tilted smectic phase in thermotropic liquid crystals. (Worked on this)
 
@@ -73,6 +75,7 @@ For more, see [CV](./CV.pdf) | [Top](#somajit-dey)
 - C
 - C++ (working knowledge)
 - Python (working knowledge)
+- Go (learning)
 - MS Word
 - MS PowerPoint
 - Inkscape
@@ -106,6 +109,7 @@ I am mostly self-taught, self-driven and self-motivated and thus, have an indepe
 
 ### Achievements
 
+- Project [IPNS-Link](https://github.com/ipns-link/specs) [won](https://github.com/ipfs/devgrants/issues/122#issuecomment-987230372) a 5000 USD [Next Step Microgrant](https://github.com/ipfs/devgrants/blob/master/MICROGRANTS.md) from Protocol Labs. 
 - Project [ipfs-chat](https://github.com/SomajitDey/ipfs-chat) accepted in the official [list](https://awesome.ipfs.io/) of awesome IPFS apps.
 - Project [redis-client](https://github.com/SomajitDey/redis-client) accepted in the official [list](https://redis.io/clients#bash) maintained by Redis Ltd.
 - Multiple research papers published in renowned peer-reviewed journals.
@@ -131,10 +135,6 @@ I am mostly self-taught, self-driven and self-motivated and thus, have an indepe
 *Personal*: [dey.somajit@gmail.com](mailto://dey.somajit@gmail.com)
 
 *Institutional*: [sdphys_rs@caluniv.ac.in](mailto://sdphys_rs@caluniv.ac.in)
-
-*Office*: 1st floor scholar room, Department of Physics, University of Calcutta, Rajabazar Campus, 92, A.P.C Road, Kolkata-700009
-
-*Note*: Mostly working from home currently, so email is preferred instead of postal mail or direct visit. In case you need to send me something over post, please email me first.
 
 *Security*: [My PGP public key](./pubkey.asc)
 
